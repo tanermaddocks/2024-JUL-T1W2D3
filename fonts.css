@@ -10,8 +10,9 @@ body {
     margin-top: 300px;
     text-align: center;
 
-    font-size: 2em;
-    font-weight: 500;
-    font-family: Arial, sans-serif;
+    font-size: 2rem;
+    font-weight: 100;
+    font-style: italic;
+    font-family: Roboto, Arial, sans-serif;
 
 }
