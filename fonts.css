@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(68, 68, 68);
+    color:aliceblue;
+}
+
+/* em is relative to the parent's font size */
+/* rem is relative to the root's font size - html */
+
+.typography {
+    margin-top: 300px;
+    text-align: center;
+
+    font-size: 2em;
+    font-weight: 500;
+    font-family: Arial, sans-serif;
+
+}
