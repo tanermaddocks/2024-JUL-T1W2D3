@@ -1,0 +1,30 @@
+html {
+    background-color: rgb(68, 68, 68);
+    color:aliceblue;
+}
+
+
+
+$primary-color: red;
+
+.parent {
+    font-size: 24px;
+    color: pink;
+
+    &:hover {
+        color: $primary-color;
+    }
+    
+    .child1 {
+        color: green;
+
+        .child2 {
+            color: yellow;
+            background-color: blue;
+        }
+    }
+
+}
+
+
+
